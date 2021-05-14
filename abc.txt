@@ -4,3 +4,4 @@ feature-2 branch add 3
 master branch add 5
 feature-1 branch add 4
 feature-1 branch add 6
+feature-1 branch add 7
